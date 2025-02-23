@@ -1,3 +1,7 @@
-env
+.git
 .env
 .mypy_cache
+__pycache__
+env
+test.py
+test2.py
